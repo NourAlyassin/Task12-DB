@@ -1,7 +1,9 @@
 # Task12 - School Database — MySQL Practice
 
 Write 15 MySQL Queries
-Insert & Modify Data
+
+
+Insert & Modify Data:
 
 Insert sample data into Students
 Insert sample data into Instructors
@@ -9,7 +11,9 @@ Update a student's email
 Insert sample data into Courses
 Enroll a student in a course (insert into Enrollments)
 Delete an enrollment record
-Analyze Data
+
+
+Analyze Data:
 
 Get the total number of students
 Show all students enrolled in Introduction to MySQL
